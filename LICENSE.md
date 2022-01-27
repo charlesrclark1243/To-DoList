@@ -1,0 +1,3 @@
+While the code itself is nothing unique, the .PNG image included in the "images" folder is handmade using Microsoft Paint3D. This being said, I give users the right to download the image in the file entitled "check-logo.png" and use it wherever they desire, so long as they don't try to legally claim it as their own or use it to generate personal profit without referencing the source of the image (i.e. this repository).
+
+Full disclosure, I feel somewhat silly making a license over a single image, especially such a small image. However, I feel it necessary, at least for the sake of professionalism.
